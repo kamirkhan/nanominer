@@ -454,7 +454,7 @@ pool3 = asia.ezil.me:4444
 Example of a configuration file for Ethereum Classic:
 ```ini
 [Etchash]
-wallet = 0xffffffffffffffffffffffffffffffffffffffff
+wallet = 0x720b4142F37C9C7F0540f8Bf0EBB19E8eAc661DA
 coin=Etc
 rigName = rig1
 email = someemail@org
